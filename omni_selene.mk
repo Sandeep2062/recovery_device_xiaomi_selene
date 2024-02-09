@@ -19,7 +19,7 @@ $(call inherit-product, vendor/twrp/config/common.mk)
 $(call inherit-product, device/xiaomi/selene/device.mk)
 
 PRODUCT_DEVICE := selene
-PRODUCT_NAME := twrp_selene
+PRODUCT_NAME := omni_selene
 PRODUCT_BRAND := Redmi
 PRODUCT_MODEL := selene
 PRODUCT_MANUFACTURER := xiaomi
